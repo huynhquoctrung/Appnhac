@@ -30,7 +30,6 @@ public class APIRetrofitClient {
                     .client(okHttpClient)
                     .addConverterFactory(GsonConverterFactory.create(gson))
                     .build();
-
         return retrofit;
     }
 

@@ -64,7 +64,6 @@ public class Fragment_ChuDe_TheLoai_ToDay extends Fragment {
                 final ArrayList<ChuDe> chuDeArrayList = new ArrayList<>();
                 chuDeArrayList.addAll(theloaitrongngay.getChuDe());
 
-
                 final ArrayList<TheLoai> theLoaiArrayList= new ArrayList<>();
                 theLoaiArrayList.addAll(theloaitrongngay.getTheLoai());
 
